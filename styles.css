@@ -1,0 +1,95 @@
+.front{
+  background-color: #E4F9F5;
+  margin-top: 0;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  font-size: 50px;
+  margin-top: 0;
+  font-family: 'Sansita Swashed', cursive;
+}
+h2{
+  color: #004d00;
+}
+h3{
+  color: #004d00;
+}
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #E4F9F5;
+  font-family: 'Cousine', monospace;
+}
+
+.web{
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-shadow: 20px;
+}
+.cc{
+  text-align: center;
+}
+.top-cloud{
+  position: relative;
+  left: 100px
+}
+.game-profile{
+  resize: both;
+}
+.hr{
+  width: 1px;
+  color: blue;
+  border-style: dotted;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.game-profile{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 80px;
+  margin-top: 0;
+}
+.bird-photo{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+.pp{
+  clear: right;
+}
+.coding-pic{
+  float: right;
+  margin-right: 30px;
+}
+.coder-line{
+  text-align: center;
+}
+.bottom-container{
+  background-color: white;
+
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.mountain{
+  width:100%;
+}
+.top-cloud{
+ margin-right: 200px;
+}
